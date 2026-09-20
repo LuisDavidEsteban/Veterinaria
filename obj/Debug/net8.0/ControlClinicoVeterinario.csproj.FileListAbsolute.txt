@@ -1,0 +1,14 @@
+/home/luis-david/proyectos/ControlClinicoVeterinario/bin/Debug/net8.0/ControlClinicoVeterinario
+/home/luis-david/proyectos/ControlClinicoVeterinario/bin/Debug/net8.0/ControlClinicoVeterinario.deps.json
+/home/luis-david/proyectos/ControlClinicoVeterinario/bin/Debug/net8.0/ControlClinicoVeterinario.runtimeconfig.json
+/home/luis-david/proyectos/ControlClinicoVeterinario/bin/Debug/net8.0/ControlClinicoVeterinario.dll
+/home/luis-david/proyectos/ControlClinicoVeterinario/bin/Debug/net8.0/ControlClinicoVeterinario.pdb
+/home/luis-david/proyectos/ControlClinicoVeterinario/obj/Debug/net8.0/ControlClinicoVeterinario.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis-david/proyectos/ControlClinicoVeterinario/obj/Debug/net8.0/ControlClinicoVeterinario.AssemblyInfoInputs.cache
+/home/luis-david/proyectos/ControlClinicoVeterinario/obj/Debug/net8.0/ControlClinicoVeterinario.AssemblyInfo.cs
+/home/luis-david/proyectos/ControlClinicoVeterinario/obj/Debug/net8.0/ControlClinicoVeterinario.csproj.CoreCompileInputs.cache
+/home/luis-david/proyectos/ControlClinicoVeterinario/obj/Debug/net8.0/ControlClinicoVeterinario.dll
+/home/luis-david/proyectos/ControlClinicoVeterinario/obj/Debug/net8.0/refint/ControlClinicoVeterinario.dll
+/home/luis-david/proyectos/ControlClinicoVeterinario/obj/Debug/net8.0/ControlClinicoVeterinario.pdb
+/home/luis-david/proyectos/ControlClinicoVeterinario/obj/Debug/net8.0/ControlClinicoVeterinario.genruntimeconfig.cache
+/home/luis-david/proyectos/ControlClinicoVeterinario/obj/Debug/net8.0/ref/ControlClinicoVeterinario.dll

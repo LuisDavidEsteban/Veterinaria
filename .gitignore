@@ -1,0 +1,34 @@
+# Compilación .NET
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+out/
+publish/
+*.dll
+*.pdb
+*.exe
+
+# Respaldos de la base de datos
+backups/
+
+# Temporales / IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.swp
+*.tmp
+*.bak
+*.log
+*~
+.DS_Store
+Thumbs.db
+
+# BlueJ
+*.class
+*.ctxt
